@@ -1,5 +1,6 @@
 import numpy
 from matplotlib import pyplot as plt
+from  torch.utils.data import Dataset
 class MinistData(Dataset):
     def __init__(self, image_path, label_path):
         _, self.image_num, self.w, self.h, self.images, self.ids = get_Minist(image_path, label_path)
