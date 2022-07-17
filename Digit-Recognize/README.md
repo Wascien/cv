@@ -13,6 +13,8 @@ loss 图像
 
 ![图片失效](./img/loss.png)
 
+准确率（correct/total）:
+
             accuracy :99.020000%
 
 
