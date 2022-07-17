@@ -3,6 +3,8 @@
 ###  训练
 
 ```
+ #修改为自己对应的MINIST数据集位置
+ 
  python main.py -img D:/datasets/MNIST/raw/train-images-idx3-ubyte \
                 -label D:/datasets/MNIST/raw/train-labels-idx1-ubyte \
                 -t_img D:/datasets/MNIST/raw/t10k-images-idx3-ubyte \
