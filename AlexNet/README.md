@@ -14,6 +14,12 @@
 
 ![图片失效](./img/test.png)
 
+### train
 
+     python main.py -img {} \
+                -label {} \
+                -t_img {} \
+                -t_label {}
 
+    #{your path}
 
