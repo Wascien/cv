@@ -2,6 +2,9 @@
 
 ![](./img/vgg.png)
 
-### 准确率
+
+### 详情
+    数据集： FashionMinst
 
     accuracy : 91.45%
+
