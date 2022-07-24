@@ -12,7 +12,13 @@
     6. GoogleNet
     7. ResNet
 
+![](./Digit-Recognize/img/instance.png)
+![](./AlexNet/img/test.png)
+
 2. 图片检测
     1. SSD
-    
+
+
+![](./SSD/imgs/test.png)
+
 
